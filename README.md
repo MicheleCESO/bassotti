@@ -1,2 +1,2 @@
 # bassotti
-Yii2 application
+Applicativo Yii2 per la gestione dell'attività dei Bassotti.
